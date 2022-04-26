@@ -1,4 +1,5 @@
-### Oh Hello There 👋 
+### <h1 align=center>Hello There! 👋</h1> 
+![alt text](https://i.imgur.com/AlcII4u.jpeg)
 My name is Tirapat and I'm currently studying @Medieinstitutet to become a Front End Developer!
 
 <!--
