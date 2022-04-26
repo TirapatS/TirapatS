@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 📖 Some knowledge: HTML/CSS, JavaScript, Bootstrap
 - 📫 How to reach me: tirapat.s02@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirapats&label=Profile%20views&color=0e75b6&style=flat" alt="tirapats" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirapats" alt="tirapats" /></a> </p>
+
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TirapatS&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TirapatS&langs_count=5&theme=tokyonight)]()
