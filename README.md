@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - 👀 On a lookout for a LIA/Praktik(Internship) this autumn 2022
-- 🌱 I’m currently learning; React
-- 📖 Some knowledge: HTML/CSS, JavaScript, Bootstrap
 - 📫 How to reach me: tirapat.s02@gmail.com
 
 
