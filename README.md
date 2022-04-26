@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oh Hello There 👋 
+My name is Tirapat and I'm currently studying @Medieinstitutet to become a Front End Developer!
 
 <!--
 **TirapatS/TirapatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
