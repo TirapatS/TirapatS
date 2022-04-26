@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning; React
 - 📖 Some knowledge: HTML/CSS, JavaScript, Bootstrap
 - 📫 How to reach me: tirapat.s02@gmail.com
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TirapatS&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?TirapatS&langs_count=5&theme=tokyonight)]()
