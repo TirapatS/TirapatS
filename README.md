@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - 👀 On a lookout for a LIA/Praktik(Internship) this autumn 2022
-- 📫 How to reach me: tirapat.s02@gmail.com
-
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TirapatS&count_private=true&theme=tokyonight&showicons=true)]()
