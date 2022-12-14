@@ -7,7 +7,7 @@ My name is <strong>Tirapat</strong> and I'm currently studying <strong>@Medieins
 Here are some ideas to get you started:
 -->
 
-- 👀 On a lookout for a LIA/Praktik(Internship) for spring 2023!
+- 👀 On a lookout for a LIA/Praktik(Internship) for winter/spring 2023!
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TirapatS&count_private=true&theme=tokyonight&showicons=true)]()
