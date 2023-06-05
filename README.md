@@ -1,5 +1,5 @@
 ### <h1 align=center>Hello There! 👋</h1> 
-My name is <strong>Tirapat</strong> and I'm currently studying <strong>@Medieinstitutet</strong> to become a Front End Developer!
+My name is <strong>Tirapat</strong> and I'm currently looking for work as a Front End Developer or similar titles!
 
 <!--
 **TirapatS/TirapatS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
